@@ -1,0 +1,9 @@
+pandas
+geopandas
+matplotlib
+seaborn
+numpy
+shapely
+folium
+jupyter
+notebook
